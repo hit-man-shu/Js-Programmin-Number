@@ -10,4 +10,3 @@ const countDigits = (num) => {
   //   console.log(count);
   console.log(`${temp} has ${count} digits`);
 };
-
