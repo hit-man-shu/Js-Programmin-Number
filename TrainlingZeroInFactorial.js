@@ -37,4 +37,4 @@ const findZeroInFact = (num) => {
   // console.timeEnd();
 };
 
-findZeroInFact(148);
+findZeroInFact(65);
